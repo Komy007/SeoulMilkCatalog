@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { data, getProductById, getCategoryForProduct, translateNutritionKey } from '@/lib/data';
+import { data, getProductById, getCategoryForProduct } from '@/lib/data';
 import { LangProvider } from '@/lib/LangContext';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -54,7 +54,6 @@ export default async function ProductPage({
         <ProductDetailClient
           product={product}
           category={category}
-          translateNutritionKey={translateNutritionKey}
         />
         <Footer />
       </div>

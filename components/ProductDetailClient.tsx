@@ -4,16 +4,16 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useLang } from '@/lib/LangContext';
 import { t } from '@/lib/i18n';
+import { translateNutritionKey } from '@/lib/data';
 import ProductImage from './ProductImage';
 import type { Product } from '@/lib/types';
 
 interface Props {
   product: Product;
   category?: { name_kr: string; name_en: string };
-  translateNutritionKey: (key: string, lang: 'ko' | 'en') => string;
 }
 
-export default function ProductDetailClient({ product, category, translateNutritionKey }: Props) {
+export default function ProductDetailClient({ product, category }: Props) {
   const { lang } = useLang();
   const [activeImg, setActiveImg] = useState(0);
 
