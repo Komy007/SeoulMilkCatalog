@@ -29,25 +29,41 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
           <p className="text-sm text-gray-500 mt-0.5">{t(lang, 'heroSub')}</p>
         </div>
 
-        <button
-          onClick={() => setLang(lang === 'ko' ? 'en' : 'ko')}
-          className="flex items-center gap-2 px-4 py-2 rounded-full border-2 font-semibold text-sm transition-colors cursor-pointer"
-          style={{
-            borderColor: '#1e7fd4',
-            color: '#1e7fd4',
-            fontFamily: 'Montserrat, sans-serif',
-          }}
-          onMouseEnter={(e) => {
-            (e.currentTarget as HTMLButtonElement).style.background = '#1e7fd4';
-            (e.currentTarget as HTMLButtonElement).style.color = '#fff';
-          }}
-          onMouseLeave={(e) => {
-            (e.currentTarget as HTMLButtonElement).style.background = 'transparent';
-            (e.currentTarget as HTMLButtonElement).style.color = '#1e7fd4';
-          }}
-        >
-          {lang === 'ko' ? 'ENGLISH' : '한국어'}
-        </button>
+        <div className="flex flex-col items-end gap-2">
+          {/* 언어 토글 스위치 */}
+          <button
+            onClick={() => setLang(lang === 'ko' ? 'en' : 'ko')}
+            className="flex items-center gap-0 rounded-full border-2 overflow-hidden cursor-pointer"
+            style={{ borderColor: '#1e7fd4', fontFamily: 'Montserrat, sans-serif' }}
+            aria-label="Toggle language"
+          >
+            <span
+              className="px-3 py-1.5 text-xs font-bold transition-colors"
+              style={{
+                background: lang === 'ko' ? '#1e7fd4' : 'transparent',
+                color: lang === 'ko' ? '#fff' : '#1e7fd4',
+              }}
+            >
+              한국어
+            </span>
+            <span
+              className="px-3 py-1.5 text-xs font-bold transition-colors"
+              style={{
+                background: lang === 'en' ? '#1e7fd4' : 'transparent',
+                color: lang === 'en' ? '#fff' : '#1e7fd4',
+              }}
+            >
+              ENGLISH
+            </span>
+          </button>
+
+          {/* 번역 제공사 표기 */}
+          <p className="text-xs text-gray-400 text-right leading-tight">
+            {lang === 'ko'
+              ? '영어로 번역 Fu Lu Shou F&B Co., Ltd.'
+              : 'Translated into English by Fu Lu Shou F&B Co., Ltd.'}
+          </p>
+        </div>
       </div>
     </header>
   );
