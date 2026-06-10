@@ -4,7 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { useLang } from '@/lib/LangContext';
 import { t } from '@/lib/i18n';
-import { translateNutritionKey } from '@/lib/data';
+import { translateNutritionKey, translateNutritionBasis } from '@/lib/data';
 import ProductImage from './ProductImage';
 import type { Product } from '@/lib/types';
 
@@ -123,7 +123,7 @@ export default function ProductDetailClient({ product, category }: Props) {
               {t(lang, 'nutritionFacts')}
             </h2>
             <p className="text-blue-100 text-xs mt-0.5">
-              {t(lang, 'servingBasis')}: {product.nutrition.기준}
+              {t(lang, 'servingBasis')}: {translateNutritionBasis(product.nutrition.기준, lang)}
             </p>
           </div>
           <table className="w-full text-sm">
