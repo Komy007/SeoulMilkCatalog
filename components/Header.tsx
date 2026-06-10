@@ -22,7 +22,7 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
             <img
               src="/seoulmilk-logo.png"
               alt="Seoul Milk"
-              className="w-28 h-20 sm:w-32 sm:h-22 object-contain"
+              className="w-48 h-32 sm:w-56 sm:h-36 object-contain"
             />
           </div>
 
