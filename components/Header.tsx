@@ -18,7 +18,12 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
 
           {/* 왼쪽: 서울우유 로고 */}
           <div className="flex-shrink-0">
-            <SeoulMilkLogo />
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/seoulmilk-logo.png"
+              alt="Seoul Milk"
+              className="w-20 h-14 sm:w-24 sm:h-16 object-contain"
+            />
           </div>
 
           {/* 가운데: 브랜드 타이틀 */}
@@ -92,40 +97,3 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
   );
 }
 
-function SeoulMilkLogo() {
-  return (
-    <svg
-      width="56"
-      height="56"
-      viewBox="0 0 120 120"
-      xmlns="http://www.w3.org/2000/svg"
-      className="w-14 h-14 sm:w-16 sm:h-16"
-      aria-label="Seoul Milk"
-    >
-      {/* 빨간 원 배경 */}
-      <circle cx="60" cy="60" r="52" fill="#E8001D" />
-
-      {/* 태극 심볼 (흰색 원 + 곡선) */}
-      <circle cx="60" cy="54" r="28" fill="white" />
-      {/* 위 파란 반원 */}
-      <path d="M32 54 A28 28 0 0 1 88 54 A14 14 0 0 1 60 54 A14 14 0 0 0 32 54Z" fill="#003087" />
-      {/* 위 파란 작은 원 */}
-      <circle cx="60" cy="40" r="7" fill="#003087" />
-      {/* 아래 빨간 작은 원 */}
-      <circle cx="60" cy="68" r="7" fill="#E8001D" />
-
-      {/* 서울우유 한글 텍스트 */}
-      <text
-        x="60"
-        y="100"
-        textAnchor="middle"
-        fill="white"
-        fontSize="13"
-        fontWeight="700"
-        fontFamily="'Noto Sans KR', sans-serif"
-      >
-        서울우유
-      </text>
-    </svg>
-  );
-}
