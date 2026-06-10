@@ -14,20 +14,20 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
     >
       {/* 상단 로고 바 */}
       <div className="max-w-7xl mx-auto px-4 py-3">
-        <div className="flex items-center justify-between gap-4">
 
-          {/* 왼쪽: 서울우유 로고 */}
-          <div className="flex-shrink-0">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src="/seoulmilk-logo.png"
-              alt="Seoul Milk"
-              className="w-48 h-32 sm:w-56 sm:h-36 object-contain"
-            />
-          </div>
+        {/* 모바일: 세로 스택 / 데스크톱: 가로 3열 */}
+        <div className="flex flex-col items-center gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
 
-          {/* 가운데: 브랜드 타이틀 */}
-          <div className="flex-1 text-center min-w-0 px-2">
+          {/* 서울우유 로고 */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/seoulmilk-logo.png"
+            alt="Seoul Milk"
+            className="w-52 h-auto sm:w-56 sm:h-36 object-contain"
+          />
+
+          {/* 브랜드 타이틀 */}
+          <div className="text-center sm:flex-1 sm:min-w-0 sm:px-2">
             <div
               className="text-[10px] sm:text-xs font-bold tracking-widest uppercase mb-0.5"
               style={{ color: '#1e7fd4', fontFamily: 'Montserrat, sans-serif' }}
@@ -35,25 +35,23 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
               SINCE {brand.since}
             </div>
             <h1
-              className="text-base sm:text-xl font-extrabold leading-tight"
+              className="text-lg sm:text-xl font-extrabold leading-tight"
               style={{ fontFamily: 'Montserrat, sans-serif', color: '#1a1a1a' }}
             >
               {lang === 'ko' ? brand.name_kr : brand.name_en}
             </h1>
-            <p className="text-[10px] sm:text-xs text-gray-400 mt-0.5 hidden sm:block">
+            <p className="text-[10px] sm:text-xs text-gray-400 mt-0.5">
               {t(lang, 'heroSub')}
             </p>
           </div>
 
-          {/* 오른쪽: FLS 로고 */}
-          <div className="flex-shrink-0">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src="/fls-logo.svg"
-              alt="Fu Lu Shou F&B Co., Ltd."
-              className="w-16 h-16 sm:w-20 sm:h-20 object-contain"
-            />
-          </div>
+          {/* FLS 로고 */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/fls-logo.svg"
+            alt="Fu Lu Shou F&B Co., Ltd."
+            className="w-20 h-20 sm:w-20 sm:h-20 object-contain"
+          />
         </div>
       </div>
 
