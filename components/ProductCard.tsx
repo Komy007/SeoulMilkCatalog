@@ -43,7 +43,7 @@ export default function ProductCard({
           />
         )}
         <span
-          className="absolute top-3 left-3 text-xs font-bold px-2 py-0.5 rounded-full text-white"
+          className="absolute top-2 left-2 sm:top-3 sm:left-3 text-[10px] sm:text-xs font-bold px-2 py-0.5 rounded-full text-white"
           style={{ background: '#1e7fd4' }}
         >
           {categoryLabel}
@@ -51,13 +51,13 @@ export default function ProductCard({
       </div>
 
       {/* Text area */}
-      <div className="p-4">
-        <h2 className="font-bold text-gray-900 text-sm leading-snug line-clamp-2 mb-1">{name}</h2>
-        <p className="text-xs text-gray-500 mb-2">
+      <div className="p-2.5 sm:p-4">
+        <h2 className="font-bold text-gray-900 text-xs sm:text-sm leading-snug line-clamp-2 mb-1">{name}</h2>
+        <p className="text-[10px] sm:text-xs text-gray-500 mb-1.5 line-clamp-1">
           <span className="font-semibold">{t(lang, 'volume')}: </span>
           {product.volume}
         </p>
-        <p className="text-xs text-gray-600 line-clamp-3 leading-relaxed">{desc}</p>
+        <p className="text-[10px] sm:text-xs text-gray-600 line-clamp-2 sm:line-clamp-3 leading-relaxed">{desc}</p>
       </div>
     </Link>
   );

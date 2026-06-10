@@ -24,18 +24,16 @@ export default function CategoryBar({
   ];
 
   return (
-    <div
-      className="no-print sticky top-0 z-20 bg-white/95 backdrop-blur border-b border-gray-100 shadow-sm"
-    >
-      <div className="max-w-7xl mx-auto px-4">
-        <div className="flex gap-1 overflow-x-auto py-2 scrollbar-hide">
+    <div className="no-print sticky top-0 z-20 bg-white/95 backdrop-blur border-b border-gray-100 shadow-sm">
+      <div className="max-w-7xl mx-auto px-3 sm:px-4">
+        <div className="flex gap-1.5 overflow-x-auto py-2.5 scrollbar-hide [-webkit-overflow-scrolling:touch]">
           {tabs.map((tab) => {
             const isActive = active === tab.key;
             return (
               <button
                 key={tab.key}
                 onClick={() => onChange(tab.key)}
-                className="whitespace-nowrap px-4 py-2 rounded-full text-sm font-semibold transition-all cursor-pointer flex-shrink-0"
+                className="whitespace-nowrap px-3.5 py-2 rounded-full text-xs sm:text-sm font-semibold transition-all cursor-pointer flex-shrink-0 active:scale-95"
                 style={
                   isActive
                     ? { background: '#1e7fd4', color: '#fff' }

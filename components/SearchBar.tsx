@@ -13,7 +13,7 @@ export default function SearchBar({
   const { lang } = useLang();
 
   return (
-    <div className="no-print relative max-w-md w-full">
+    <div className="no-print relative w-full sm:max-w-md">
       <svg
         className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400"
         fill="none"
