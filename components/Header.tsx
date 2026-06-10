@@ -22,7 +22,7 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
             <img
               src="/seoulmilk-logo.png"
               alt="Seoul Milk"
-              className="w-20 h-14 sm:w-24 sm:h-16 object-contain"
+              className="w-28 h-20 sm:w-32 sm:h-22 object-contain"
             />
           </div>
 
@@ -51,7 +51,7 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
             <img
               src="/fls-logo.svg"
               alt="Fu Lu Shou F&B Co., Ltd."
-              className="w-14 h-14 sm:w-16 sm:h-16 object-contain"
+              className="w-16 h-16 sm:w-20 sm:h-20 object-contain"
             />
           </div>
         </div>
