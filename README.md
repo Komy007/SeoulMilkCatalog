@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Seoul Milk — B2B Product Catalog
 
-## Getting Started
+Next.js (App Router) + Tailwind CSS로 구축된 서울우유협동조합 해외 바이어용 제품 카탈로그.
 
-First, run the development server:
+## 로컬 실행
 
 ```bash
+# 의존성 설치
+npm install
+
+# 개발 서버 시작
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# → http://localhost:3000 에서 확인
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+언어 전환: 헤더 우측 한국어/ENGLISH 버튼, 또는 URL 파라미터 `?lang=en`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Vercel 배포
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 방법 1 — Vercel CLI (권장)
 
-## Learn More
+```bash
+# Vercel CLI 설치 (최초 1회)
+npm i -g vercel
 
-To learn more about Next.js, take a look at the following resources:
+# 이 폴더에서 실행
+vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# 이후 변경사항 반영
+vercel --prod
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 방법 2 — GitHub 연동
 
-## Deploy on Vercel
+1. 이 폴더를 GitHub 저장소에 push
+2. vercel.com → Add New Project → GitHub 저장소 선택
+3. Framework Preset: **Next.js** (자동 감지)
+4. **Deploy** 클릭 → 자동 빌드 & 배포
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> **주의**: Root Directory를 `catalog`(이 폴더)로 지정해야 합니다.  
+> 만약 상위 폴더 `SeoulMilkCatalog`를 저장소 루트로 사용한다면  
+> Vercel 프로젝트 설정 → General → Root Directory를 `catalog`로 변경하세요.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 빌드
+
+```bash
+npm run build
+npm start
+```
+
+## 데이터 업데이트
+
+`public/data.json` (원본: `seoulmilk_catalog_data.json` 복사본)을 교체하면 됩니다.  
+빌드 시 정적으로 생성되므로 변경 후 재빌드가 필요합니다.
+
+## 기술 스택
+
+- **Next.js 15** (App Router, SSG)
+- **Tailwind CSS v4**
+- **TypeScript**
+- 폰트: Noto Sans KR + Montserrat (Google Fonts)
+- 이미지: 서울우유 공식 서버 핫링크 (외부 URL)
