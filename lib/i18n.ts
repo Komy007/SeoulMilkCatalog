@@ -33,8 +33,31 @@ export const ui = {
     footerAddr: '71 Jungnangcheon-ro, Jungnang-gu, Seoul, Korea',
     footerSource: 'Source: seoulmilk.co.kr',
   },
+  km: {
+    catalogTitle: 'កាតាឡុកផលិតផល',
+    heroSub: 'សហករណ៍ទឹកដោះគោលេខ១របស់កូរ៉េ — រក្សាភាពស្រស់តាំងពីឆ្នាំ 1937',
+    allCategories: 'ទាំងអស់',
+    searchPlaceholder: 'ស្វែងរកផលិតផល...',
+    noResults: 'រកមិនឃើញផលិតផលទេ។',
+    volume: 'ចំណុះ',
+    category: 'ប្រភេទ',
+    nutritionFacts: 'តារាងសារធាតុចិញ្ចឹម',
+    servingBasis: 'មូលដ្ឋាន',
+    backToList: 'ត្រឡប់ទៅបញ្ជី',
+    contactForPrice: 'ទាក់ទងសម្រាប់តម្លៃ',
+    footerName: 'សហករណ៍ទឹកដោះគោសេអ៊ូល',
+    footerAddr: '71 Jungnangcheon-ro, Jungnang-gu, Seoul, Korea',
+    footerSource: 'ប្រភព: seoulmilk.co.kr',
+  },
 } as const;
 
 export function t(lang: Lang, key: keyof (typeof ui)['ko']): string {
   return ui[lang][key];
+}
+
+/** ko → kr값, en/km → en값 (km 전용값 있으면 우선) */
+export function pick(lang: Lang, kr: string, en: string, km?: string): string {
+  if (lang === 'ko') return kr;
+  if (lang === 'km' && km) return km;
+  return en;
 }

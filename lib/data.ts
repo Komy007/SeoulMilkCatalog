@@ -1,5 +1,5 @@
 import catalogData from '@/public/data.json';
-import type { CatalogData, Product } from './types';
+import type { CatalogData, Lang, Product } from './types';
 
 export const data = catalogData as unknown as CatalogData;
 
@@ -64,7 +64,7 @@ export const nutritionLabelMap: Record<string, string> = {
   아르기닌: 'Arginine',
   타우린: 'Taurine',
   // 지방산
-  'DHA': 'DHA',
+  DHA: 'DHA',
   '알파-리놀렌산': 'Alpha-Linolenic Acid',
   // 기타
   나이아신: 'Niacin',
@@ -76,21 +76,62 @@ export const nutritionLabelMap: Record<string, string> = {
   알룰로오스: 'Allulose',
 };
 
-export function translateNutritionKey(key: string, lang: 'ko' | 'en'): string {
+export const nutritionLabelMapKm: Record<string, string> = {
+  열량: 'ថាមពល',
+  나트륨: 'សូដ្យូម',
+  탄수화물: 'កាបូអ៊ីដ្រាត',
+  당류: 'ស្ករ',
+  지방: 'ខ្លាញ់',
+  트랜스지방: 'ខ្លាញ់ត្រង់ស៍',
+  포화지방: 'ខ្លាញ់ឆ្អែត',
+  단백질: 'ប្រូតេអ៊ីន',
+  칼슘: 'កាល់ស្យូម',
+  콜레스테롤: 'កូឡេស្តេរ៉ុល',
+  식이섬유: 'ជាតិសរសៃ',
+  아연: 'ស័ង្កសី',
+  마그네슘: 'ម៉ាញ៉េស្យូម',
+  철분: 'ជាតិដែក',
+  유당: 'ឡាក់តូស',
+  로이신: 'លូស៊ីន',
+  이소로이신: 'អ៊ីសូលូស៊ីន',
+  발린: 'វ៉ាលីន',
+  아르기닌: 'អាហ្ស៊ីនីន',
+  타우린: 'ថូរីន',
+  DHA: 'DHA',
+  '알파-리놀렌산': 'អាស៊ីតអាល់ហ្វា-លីណូឡេនិក',
+  나이아신: 'នីអាស៊ីន',
+  엽산: 'អាស៊ីតហ្វូលិក',
+  바이오틴: 'ប៊ីយ៉ូទីន',
+  판토텐산: 'អាស៊ីតប៉ង់តូតេនិក',
+  판테토산: 'អាស៊ីតប៉ង់តូតេនិក',
+  알룰로스: 'អាលូឡូស',
+  알룰로오스: 'អាលូឡូស',
+};
+
+export function translateNutritionKey(key: string, lang: Lang): string {
   if (lang === 'ko') return key;
+  if (lang === 'km') {
+    if (nutritionLabelMapKm[key]) return nutritionLabelMapKm[key];
+    // 비타민 패턴: 비타민X / 비타민 X → វីតាមីន X
+    const vitaminMatchKm = key.match(/^비타민\s*(.+)$/);
+    if (vitaminMatchKm) return `វីតាមីន ${vitaminMatchKm[1]}`;
+    // 영어 매핑으로 폴백
+    if (nutritionLabelMap[key]) return nutritionLabelMap[key];
+    return key;
+  }
+  // en
   if (nutritionLabelMap[key]) return nutritionLabelMap[key];
-  // 미등록 비타민 패턴 처리: "비타민 X123" or "비타민X123" → "Vitamin X123"
   const vitaminMatch = key.match(/^비타민\s*(.+)$/);
   if (vitaminMatch) return `Vitamin ${vitaminMatch[1]}`;
   return key;
 }
 
-export function translateNutritionBasis(basis: string, lang: 'ko' | 'en'): string {
+export function translateNutritionBasis(basis: string, lang: Lang): string {
   if (lang === 'ko') return basis;
-  // "100mL당 함량" → "per 100mL"
   const mlMatch = basis.match(/(\d+(?:\.\d+)?mL)/);
-  if (mlMatch) return `Per ${mlMatch[1]}`;
   const gMatch = basis.match(/(\d+(?:\.\d+)?g)/);
-  if (gMatch) return `Per ${gMatch[1]}`;
-  return basis;
+  const unit = mlMatch ? mlMatch[1] : gMatch ? gMatch[1] : null;
+  if (!unit) return basis;
+  if (lang === 'km') return `ក្នុង ${unit}`;
+  return `Per ${unit}`;
 }

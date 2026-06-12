@@ -1,11 +1,25 @@
 'use client';
 
 import { useLang } from '@/lib/LangContext';
-import { t } from '@/lib/i18n';
-import type { CatalogData } from '@/lib/types';
+import { t, pick } from '@/lib/i18n';
+import type { CatalogData, Lang } from '@/lib/types';
 
 export default function Header({ brand }: { brand: CatalogData['brand'] }) {
   const { lang, setLang } = useLang();
+
+  const brandName = pick(lang, brand.name_kr, brand.name_en);
+
+  const translatorNote = {
+    ko: '영어·크메르어 번역 Fu Lu Shou F&B Co., Ltd.',
+    en: 'Translated by Fu Lu Shou F&B Co., Ltd.',
+    km: 'បកប្រែដោយ Fu Lu Shou F&B Co., Ltd.',
+  }[lang];
+
+  const segments: { key: Lang; label: string }[] = [
+    { key: 'ko', label: '한국어' },
+    { key: 'en', label: 'ENGLISH' },
+    { key: 'km', label: 'ខ្មែរ' },
+  ];
 
   return (
     <header
@@ -14,8 +28,6 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
     >
       {/* 상단 로고 바 */}
       <div className="max-w-7xl mx-auto px-4 py-3">
-
-        {/* 모바일: 세로 스택 / 데스크톱: 가로 3열 */}
         <div className="flex flex-col items-center gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
 
           {/* 서울우유 로고 */}
@@ -38,7 +50,7 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
               className="text-lg sm:text-xl font-extrabold leading-tight"
               style={{ fontFamily: 'Montserrat, sans-serif', color: '#1a1a1a' }}
             >
-              {lang === 'ko' ? brand.name_kr : brand.name_en}
+              {brandName}
             </h1>
             <p className="text-[10px] sm:text-xs text-gray-400 mt-0.5">
               {t(lang, 'heroSub')}
@@ -60,38 +72,29 @@ export default function Header({ brand }: { brand: CatalogData['brand'] }) {
         className="max-w-7xl mx-auto px-4 py-1.5 flex items-center justify-end gap-3"
         style={{ borderTop: '1px solid #f0f4f8' }}
       >
-        <p className="text-[10px] text-gray-400 leading-tight">
-          {lang === 'ko'
-            ? '영어로 번역 Fu Lu Shou F&B Co., Ltd.'
-            : 'Translated by Fu Lu Shou F&B Co., Ltd.'}
-        </p>
-        <button
-          onClick={() => setLang(lang === 'ko' ? 'en' : 'ko')}
-          className="flex items-center rounded-full border-2 overflow-hidden cursor-pointer flex-shrink-0"
+        <p className="text-[10px] text-gray-400 leading-tight">{translatorNote}</p>
+
+        {/* 3분할 pill 토글 */}
+        <div
+          className="flex items-center rounded-full border-2 overflow-hidden flex-shrink-0"
           style={{ borderColor: '#1e7fd4', fontFamily: 'Montserrat, sans-serif' }}
-          aria-label="Toggle language"
         >
-          <span
-            className="px-3 py-1 text-xs font-bold transition-colors min-w-[52px] text-center"
-            style={{
-              background: lang === 'ko' ? '#1e7fd4' : 'transparent',
-              color: lang === 'ko' ? '#fff' : '#1e7fd4',
-            }}
-          >
-            한국어
-          </span>
-          <span
-            className="px-3 py-1 text-xs font-bold transition-colors min-w-[60px] text-center"
-            style={{
-              background: lang === 'en' ? '#1e7fd4' : 'transparent',
-              color: lang === 'en' ? '#fff' : '#1e7fd4',
-            }}
-          >
-            ENGLISH
-          </span>
-        </button>
+          {segments.map(({ key, label }) => (
+            <button
+              key={key}
+              onClick={() => setLang(key)}
+              className="px-3 py-1 text-xs font-bold transition-colors cursor-pointer"
+              style={{
+                background: lang === key ? '#1e7fd4' : 'transparent',
+                color: lang === key ? '#fff' : '#1e7fd4',
+                minWidth: key === 'km' ? '52px' : key === 'en' ? '60px' : '52px',
+              }}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
       </div>
     </header>
   );
 }
-

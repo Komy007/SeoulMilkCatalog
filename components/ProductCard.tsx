@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useLang } from '@/lib/LangContext';
-import { t } from '@/lib/i18n';
+import { t, pick } from '@/lib/i18n';
 import ProductImage from './ProductImage';
 import type { Product } from '@/lib/types';
 
@@ -15,8 +15,8 @@ export default function ProductCard({
 }) {
   const { lang } = useLang();
 
-  const name = lang === 'ko' ? product.name_kr : product.name_en;
-  const desc = lang === 'ko' ? product.desc_kr : product.desc_en;
+  const name = pick(lang, product.name_kr, product.name_en, product.name_km);
+  const desc = pick(lang, product.desc_kr, product.desc_en, product.desc_km);
   const image = product.images[0];
 
   return (

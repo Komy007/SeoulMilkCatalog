@@ -3,24 +3,25 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { useLang } from '@/lib/LangContext';
-import { t } from '@/lib/i18n';
+import { t, pick } from '@/lib/i18n';
 import { translateNutritionKey, translateNutritionBasis } from '@/lib/data';
 import ProductImage from './ProductImage';
 import type { Product } from '@/lib/types';
 
 interface Props {
   product: Product;
-  category?: { name_kr: string; name_en: string };
+  category?: { name_kr: string; name_en: string; name_km?: string };
 }
 
 export default function ProductDetailClient({ product, category }: Props) {
   const { lang } = useLang();
   const [activeImg, setActiveImg] = useState(0);
 
-  const primaryName = lang === 'ko' ? product.name_kr : product.name_en;
+  const primaryName = pick(lang, product.name_kr, product.name_en, product.name_km);
+  // 병기: ko → 영문, en/km → 한국어
   const secondaryName = lang === 'ko' ? product.name_en : product.name_kr;
-  const desc = lang === 'ko' ? product.desc_kr : product.desc_en;
-  const catLabel = category ? (lang === 'ko' ? category.name_kr : category.name_en) : '';
+  const desc = pick(lang, product.desc_kr, product.desc_en, product.desc_km);
+  const catLabel = category ? pick(lang, category.name_kr, category.name_en, category.name_km) : '';
 
   return (
     <main className="max-w-5xl mx-auto px-4 py-8 flex-1 w-full">
@@ -115,10 +116,7 @@ export default function ProductDetailClient({ product, category }: Props) {
       {/* Nutrition */}
       {product.nutrition && (
         <div className="rounded-2xl border border-gray-100 shadow-sm overflow-hidden" style={{ borderRadius: '16px' }}>
-          <div
-            className="px-6 py-4"
-            style={{ background: '#1e7fd4' }}
-          >
+          <div className="px-6 py-4" style={{ background: '#1e7fd4' }}>
             <h2 className="font-extrabold text-white text-lg" style={{ fontFamily: 'Montserrat, sans-serif' }}>
               {t(lang, 'nutritionFacts')}
             </h2>

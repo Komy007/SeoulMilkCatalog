@@ -11,7 +11,7 @@ export default async function HomePage({
   searchParams: Promise<{ lang?: string }>;
 }) {
   const params = await searchParams;
-  const initial: Lang = params.lang === 'en' ? 'en' : 'ko';
+  const initial: Lang = params.lang === 'en' ? 'en' : params.lang === 'km' ? 'km' : 'ko';
 
   return (
     <LangProvider initial={initial}>

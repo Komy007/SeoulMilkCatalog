@@ -7,11 +7,13 @@ export interface Product {
   id: string;
   name_kr: string;
   name_en: string;
+  name_km?: string;
   type_kr: string;
   type_en: string;
   volume: string;
   desc_kr: string;
   desc_en: string;
+  desc_km?: string;
   images: string[];
   nutrition: Nutrition | null;
 }
@@ -19,6 +21,7 @@ export interface Product {
 export interface Category {
   name_kr: string;
   name_en: string;
+  name_km?: string;
   products: Product[];
 }
 
@@ -32,4 +35,4 @@ export interface CatalogData {
   categories: Category[];
 }
 
-export type Lang = 'ko' | 'en';
+export type Lang = 'ko' | 'en' | 'km';

@@ -21,12 +21,13 @@ export function LangProvider({
 
   useEffect(() => {
     const stored = localStorage.getItem('lang') as Lang | null;
-    if (stored === 'ko' || stored === 'en') {
+    if (stored === 'ko' || stored === 'en' || stored === 'km') {
       setLangState(stored);
     } else {
-      // 저장된 언어 없으면 브라우저 언어로 자동 감지
-      const browserLang = navigator.language || '';
-      const detected: Lang = browserLang.toLowerCase().startsWith('ko') ? 'ko' : 'en';
+      const browserLang = (navigator.language || '').toLowerCase();
+      let detected: Lang = 'en';
+      if (browserLang.startsWith('ko')) detected = 'ko';
+      else if (browserLang.startsWith('km')) detected = 'km';
       setLangState(detected);
       localStorage.setItem('lang', detected);
     }

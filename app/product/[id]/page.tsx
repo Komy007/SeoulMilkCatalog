@@ -45,7 +45,7 @@ export default async function ProductPage({
   if (!product) notFound();
 
   const category = getCategoryForProduct(id);
-  const initial: Lang = sp.lang === 'en' ? 'en' : 'ko';
+  const initial: Lang = sp.lang === 'en' ? 'en' : sp.lang === 'km' ? 'km' : 'ko';
 
   return (
     <LangProvider initial={initial}>

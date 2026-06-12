@@ -1,7 +1,7 @@
 'use client';
 
 import { useLang } from '@/lib/LangContext';
-import { t } from '@/lib/i18n';
+import { t, pick } from '@/lib/i18n';
 import type { Category } from '@/lib/types';
 
 export default function CategoryBar({
@@ -19,7 +19,7 @@ export default function CategoryBar({
     { key: 'all', label: t(lang, 'allCategories') },
     ...categories.map((c) => ({
       key: c.name_en,
-      label: lang === 'ko' ? c.name_kr : c.name_en,
+      label: pick(lang, c.name_kr, c.name_en, c.name_km),
     })),
   ];
 
