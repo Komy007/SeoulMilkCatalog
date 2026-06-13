@@ -1101,7 +1101,7 @@
             }
           },
           "name_km": "Seoul Milk Biyott ទឹកដោះគោជូរ Topping",
-          "desc_km": "ទឹកដោះគោជូរ Biyott Topping ។ ផ្ទុករសជាតិ Choco Ring, Crunch Ball, Berry Compote ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "បត់ហើយញ៉ាំ! Biyott ជាទឹកដោះគោជូរ Topping ល្អជាអាហារសម្រន់ ឬ អាហារស្រាល។ Choco Ring: ទឹកដោះគោជូរ Plain ពីទឹកដោះគោថ្នាក់ 1A ជាមួយ Chocolate ring ផ្អែមពី Europe។ Crunch Ball: Plain ជាមួយ Crunch ball ៣ ពណ៌ ក្រឡេច។ Cookies & Cream: Plain ជាមួយ Chocolate និង Marshmallow ទន់ ក្នុងកិច្ចសហការ Cereal Brand។ Berry Compote: Plain ជាមួយ Compote Blueberry, Raspberry, Strawberry ដែលមានផ្លែទាំងមូល។"
         },
         {
           "id": "10000000000605",
@@ -1163,8 +1163,8 @@
               "칼슘": "100mg (14%)"
             }
           },
-          "name_km": "Seoul Milk ទឹកដោះគោជូរ Pure Plain",
-          "desc_km": "ទឹកដោះគោជូរ Pure Plain ។ ផ្ទុក Raw milk 99.997% ។ គ្មានថ្នាំលាបពណ៌ ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Richer ទឹកដោះគោជូរ Pure Plain",
+          "desc_km": "ទឹកដោះគោជូរ Pure Plain ដែលផ្ទុកតែទឹកដោះគោ និង Live culture: Raw milk 99.997% គ្មាន Coloring, Stabilizer, Flavor ឬ Sweetener។ ក្រាស់ជាង Drinking yogurt រលូន ស្រស់ មានទំហំ 1L, 1.8L, 2.45L សម្រាប់ ម្នាក់ ឬ ក្រុមគ្រួសារ។ ច្រោះផ្ទះ ដើម្បីធ្វើ Greek yogurt ក៏បាន។"
         },
         {
           "id": "10000000000511",
@@ -1194,8 +1194,8 @@
               "칼슘": "87mg (12%)"
             }
           },
-          "name_km": "Seoul Milk ទឹកដោះគោជូរ Plain Sweet",
-          "desc_km": "ទឹកដោះគោជូរ Plain Sweet ។ ផ្ទុក Raw milk 92% ។ ផ្ទុក Oligosaccharide ។ គ្មានថ្នាំលាបពណ៌ ។ ផ្ទុកកាល់ស្យូម ។"
+          "name_km": "Seoul Milk Richer ទឹកដោះគោជូរ Plain Sweet",
+          "desc_km": "ទឹកដោះគោជូរ Plain ស្អាត ធ្វើ Ferment ពីទឹកដោះគោ Seoul Milk 92% ជាមួយ Oligosaccharide ។ គ្មាន Coloring, Stabilizer ឬ Flavor ។ ល្អ ជំនួស ក្នុង ម្ហូប ច្រើន ប្រភេទ ។ Texture ទន់ ព្រោះ គ្មាន Stabilizer ហើយ Whey ថ្លា ដែល នៅ លើ ជា Nutritious ទឹកដោះគោ ញ៉ាំ ទៅ ។"
         },
         {
           "id": "10000000000533",
@@ -1227,7 +1227,7 @@
             }
           },
           "name_km": "Seoul Milk Jjayo Jjayo ទឹកដោះគោជូរ Squeeze",
-          "desc_km": "ទឹកដោះគោជូរ Squeeze ។ ផ្ទុក Jelly Popping ។ ជម្រើស Fruit ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "ទឹកដោះគោជូរ Squeeze ដែលធ្វើឱ្យ ការ ញ៉ាំ សប្បាយ! ញ៉ាំ ងាយ គ្រប់ ពេល គ្រប់ ទីកន្លែង។ រស Fruit ជូរ ផ្អែម ជាមួយ Jelly Popping ធ្វើជា Snack Nutritious សម្រាប់ ទាំងកុមារ និង មនុស្ស ពេញវ័យ ។"
         },
         {
           "id": "10000000000598",
@@ -1257,7 +1257,7 @@
             }
           },
           "name_km": "Seoul Milk ទឹកដោះគោជូរ Drink",
-          "desc_km": "ទឹកដោះគោជូរ Drink ។ ផ្ទុកបាក់តេរី Probiotic ចំនួន ១០ លាន ក្នុង 1mL ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "ទឹកដោះគោ Fermented សម្រាប់ ក្រុមគ្រួសារ ទាំងអស់ ផ្ទុក Live culture ជាង 10 លាន ក្នុង 1mL ។ ញ៉ាំ ផ្ទាល់ ឬ លាចូល Fruit ស្រស់ ជា Wellness juice, ប្រើ ជាមួយ Snack ឬ ចែករំលែក ជា Dessert ក្រោយ អាហារ ។"
         },
         {
           "id": "10000000000645",
@@ -1290,7 +1290,7 @@
             }
           },
           "name_km": "Seoul Milk Duoan Yum Yum ទឹកដោះគោជូរ Kids",
-          "desc_km": "ទឹកដោះគោជូរ Kids Premium DUOLAC Probiotic ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកបាក់តេរី Probiotic ។"
+          "desc_km": "ទឹកដោះគោជូរ Liquid Premium ជាមួយ DUOLAC Probiotic ។ ផ្ទុក Zinc ជំនួយ Immune, Calcium និង Vitamin D ជំនួយ ការបង្កើតឆ្អឹង ហើយ ស្ករ 25% ក្រោម Formula ចាស់ ។"
         },
         {
           "id": "10000000000527",
@@ -1359,7 +1359,7 @@
             }
           },
           "name_km": "Seoul Milk ទឹកដោះគោជូរ Probiotics",
-          "desc_km": "ទឹកដោះគោជូរ Probiotics ។ ផ្ទុក Raw milk Korea ។ ជម្រើស Apple ឬ Blueberry ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "ទឹកដោះគោជូរ Drink ជាមួយ Probiotic culture និង Raw milk Korea ។ រស Smooth Apple ឬ Blueberry — ទឹកដោះគោជូរ ល្អ សម្រាប់ Gut ក្នុង តម្លៃ សមរម្យ ។"
         },
         {
           "id": "10000000000594",
@@ -1396,7 +1396,7 @@
             }
           },
           "name_km": "Seoul Milk ទឹកដោះគោជូរ (Cup)",
-          "desc_km": "ទឹកដោះគោជូរ (Cup) ។ ផ្ទុក Raw milk Korea 72.7% ។ ជម្រើស Plain, Strawberry, Blueberry, Peach ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "ទឹកដោះគោជូរ Cup ។ ធ្វើ ពី Raw milk Korea ថ្នាក់ 1A 72.7% ជាមួយ Skim milk powder Korea 2.08% ។ ខ្ចប់ Eco-friendly គ្មាន ស្លាក ។ ប្រភេទ: Plain, Strawberry, Blueberry ឬ Peach ។ ញ៉ាំ ស្រស់ ឆ្ងាញ់ ។ ល្អ ចំពោះ ក្រុមគ្រួសារ ។"
         },
         {
           "id": "10000000000705",
@@ -1425,7 +1425,7 @@
             }
           },
           "name_km": "Seoul Milk ទឹកដោះគោជូរ Fresh Cream",
-          "desc_km": "ទឹកដោះគោជូរ Fresh Cream ។ ផ្ទុក Raw milk Korea ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកបាក់តេរី Probiotic ។"
+          "desc_km": "ទឹកដោះគោជូរ ស្ទីល Dessert Smooth ផ្អែម ធ្វើ ពី Fresh cream ទឹកដោះគោ Korea ។ ជា ទឹកដោះគោជូរ ប្រណីត ដែលឆ្ងាញ់ ។"
         },
         {
           "id": "10000000000537",
@@ -1490,8 +1490,8 @@
               "칼슘": "177mg (25%)"
             }
           },
-          "name_km": "Seoul Milk ទឹកដោះគោជូរ Farm-Fresh",
-          "desc_km": "ទឹកដោះគោជូរ Farm-Fresh ។ ផ្ទុក Raw milk 83.27% ។ ជម្រើស Blueberry ឬ Strawberry ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Farm-Fresh ទឹកដោះគោជូរ Concentrated",
+          "desc_km": "ទឹកដោះគោជូរ Concentrated ជាមួយ ផ្លែឈើ ស្រស់ ។ Blueberry: ផ្ទុក ផ្លែ Blueberry ពិត ក្នុង ដប PET Curved Portable ថ្លា ។ Strawberry: ស្ទីល Dessert Homemade ផ្ទុក Raw milk 83.27% ។"
         },
         {
           "id": "10000000000631",
@@ -1523,7 +1523,7 @@
             }
           },
           "name_km": "Seoul Milk Richer ទឹកដោះគោជូរ Greek",
-          "desc_km": "ទឹកដោះគោជូរ Greek ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកបាក់តេរី Probiotic ។ ជម្រើស Plain ។"
+          "desc_km": "ទឹកដោះគោជូរ Greek ក្រាស់ Artisan ច្រោះ Whey បែបប្រពៃណី Greek ។ Plain ចំណុះ ជាមួយ Topping ណាក៏ ដោយ — ជា ទឹកដោះគោជូរ Greek Premium ដែលឆ្ងាញ់ ក្រាស់ ។"
         },
         {
           "id": "10000000000706",
@@ -1553,7 +1553,7 @@
             }
           },
           "name_km": "Seoul Milk Richer Allulose ទឹកដោះគោជូរ Greek",
-          "desc_km": "ទឹកដោះគោជូរ Greek Allulose ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកបាក់តេរី Probiotic ។"
+          "desc_km": "ទឹកដោះគោជូរ Greek Premium ធ្វើ បែបប្រពៃណី Greek ហើយ ផ្អែម ដោយ Allulose ធម្មជាតិ ។ ជា ទឹកដោះគោជូរ Greek ប្រណីត ពិតប្រាកដ ។"
         },
         {
           "id": "10000000000597",
@@ -1587,7 +1587,7 @@
             }
           },
           "name_km": "Seoul Milk Enfant ទឹកដោះគោជូរ Kids Drink",
-          "desc_km": "ទឹកដោះគោជូរ Kids Drink Enfant ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកបាក់តេរី Probiotic ។"
+          "desc_km": "ទឹកដោះគោជូរ Drink Enfant ជំនួយ ការ លូតលាស់ កុមារ: Calcium និង Vitamin D ជំនួយ ការបង្កើតឆ្អឹង, Vitamin C ជំនួយ Connective tissue, Zinc ជំនួយ Immune ។ ផ្ទុក Synbiotic — Probiotic បូក Prebiotic ។"
         },
         {
           "id": "10000000000634",
@@ -1657,8 +1657,8 @@
               "비타민C": "30mg (30%)"
             }
           },
-          "name_km": "Seoul Milk Morning Juice Orange",
-          "desc_km": "ទឹក Morning Juice Orange ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Morning Juice ទឹកក្រូចថ្ម",
+          "desc_km": "ទឹក Juice ក្រូចថ្ម 100% ធម្មជាតិ ទាញ Cold-filling ដ៏ ប្រណីត ។ ចែកចាយ ត្រជាក់ 5°C ការពារ ក្លិន ពណ៌ ក្រូចថ្ម ដូចធម្មជាតិ ។"
         },
         {
           "id": "10000000000580",
@@ -1688,8 +1688,8 @@
               "단백질": "1g 미만 (1%)"
             }
           },
-          "name_km": "Seoul Milk Morning Juice Grape",
-          "desc_km": "ទឹក Morning Juice Grape ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Morning Juice ទឹក Grape",
+          "desc_km": "ទឹក Juice Grape 100% ធម្មជាតិ ទាញ Cold-filling ដ៏ ប្រណីត ។ ចែកចាយ ត្រជាក់ 5°C ការពារ ក្លិន ពណ៌ Grape ដូចធម្មជាតិ ។"
         },
         {
           "id": "10000000000575",
@@ -1719,8 +1719,8 @@
               "단백질": "0g (0%)"
             }
           },
-          "name_km": "Seoul Milk Morning Juice Apple",
-          "desc_km": "ទឹក Morning Juice Apple ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Morning Juice ទឹក Apple",
+          "desc_km": "ទឹក Juice Apple 100% ធម្មជាតិ ទាញ Cold-filling ចែកចាយ ត្រជាក់ 5°C ។ ស្ទីល Cloudy ផ្ដល់ រស ក្លិន សម្បូរ ជាង Juice ប្រភេទ ថ្លា ។"
         },
         {
           "id": "10000000000576",
@@ -1751,8 +1751,8 @@
               "비타민C": "30mg (30%)"
             }
           },
-          "name_km": "Seoul Milk Morning Juice Jeju Tangerine",
-          "desc_km": "ទឹក Morning Juice Jeju Tangerine ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Morning Juice ទឹក Jeju Tangerine",
+          "desc_km": "ទឹក Juice ត្រជាក់ ស្រស់ ធ្វើ ពី Juice Jeju Tangerine 100% ។ គ្មាន Flavoring សិប្បនិម្មិត ។ រស Jeju Tangerine ស្រស់ ពិតប្រាកដ ។"
         },
         {
           "id": "10000000000571",
@@ -1782,7 +1782,7 @@
             }
           },
           "name_km": "Seoul Milk Morning Juice Black Label ABC",
-          "desc_km": "ទឹក Morning Juice Black Label ABC ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "ទឹក Juice ត្រជាក់ Premium គ្មាន Flavoring ឬ Additive ។ Black Label ABC ជា Juice ផ្លែឈើ-បន្លែ 100% ដែលមាន បន្លែ ជាង 20% រួមមាន Apple, Beet, Carrot ហើយ Orange ។ ល្អ ជា ការ ចាប់ ផ្ដើម ព្រឹក ។"
         },
         {
           "id": "10000000000574",
@@ -1813,7 +1813,7 @@
             }
           },
           "name_km": "Seoul Milk Morning Juice Organic",
-          "desc_km": "ទឹក Morning Juice Organic ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "ទឹក Juice ត្រជាក់ ការពារ ភាព ស្រស់ ផ្លែឈើ Organic ដោយ Cold-filling ។ ទំហំ 900mL ឱ្យ ក្រុមគ្រួសារ ញ៉ាំ Juice Organic ជាមួយ គ្នា ។"
         },
         {
           "id": "10000000000641",
@@ -1844,8 +1844,8 @@
               "비타민C": "17mg (17%)"
             }
           },
-          "name_km": "Seoul Milk Fruity Home",
-          "desc_km": "ទឹក Fruity Home ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកបាក់តេរី Probiotic ។"
+          "name_km": "Seoul Milk Fruity Home ភេសជ្ជៈ Fruit",
+          "desc_km": "Orange: ភេសជ្ជៈ Fruit-បន្លែ ជូរ ផ្អែម ។ ផ្ដល់ ជីវជាតិ វីតាមីន C សំបូរ សម្រាប់ ក្រុមគ្រួសារ ។ Grapefruit: ស្រស់ ចិត្ត ស្រាល ជាមួយ Dietary fiber ។ Tomato: ភេសជ្ជៈ Tomato ញ៉ាំ ទូទៅ ផ្ទុក ជីវជាតិ E ។"
         },
         {
           "id": "10000000000573",
@@ -1875,7 +1875,7 @@
             }
           },
           "name_km": "Seoul Milk Morning Juice Mini",
-          "desc_km": "ទឹក Morning Juice Mini ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "desc_km": "ទឹក Juice Pouch ស្ទូច ក្នុង ដៃ ទំហំ តូច ។ ល្អ ជំនួយ ជា Snack ។ Character ក្មេង ចូលចិត្ត ។ ធ្វើ ពី Juice Apple Korea ក្រហម បូក Juice Grape ។"
         },
         {
           "id": "10000000000568",
@@ -1904,8 +1904,8 @@
               "단백질": "0g (0%)"
             }
           },
-          "name_km": "Seoul Milk Enfant ទឹក Organic Juice",
-          "desc_km": "ទឹក Enfant Organic Juice ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Enfant Organic Juice",
+          "desc_km": "Juice Organic ដែល ក្មេង ចូលចិត្ត ធ្វើ ដោយ ប្រុងប្រយ័ត្ន ពី ផ្លែឈើ-បន្លែ Organic ដោយ គ្មាន Fertilizer ឬ Pesticide ។ ABC Juice លាយ Beet ក្រហម, Carrot, Apple; Pear & Bellflower-Root លាយ Juice ២ ប្រភេទ ។"
         },
         {
           "id": "10000000000562",
@@ -1936,8 +1936,8 @@
               "비타민C": "100mg (100%)"
             }
           },
-          "name_km": "Seoul Milk All-Day Fruit ទឹក",
-          "desc_km": "ទឹក All-Day Fruit ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk All-Day Fruit ភេសជ្ជៈ",
+          "desc_km": "Fruit juice ade ស្រស់ ចិត្ត គ្រប់ ពេល ។ ផ្ទុក Vitamin C និង Dietary fiber ធ្វើ ឱ្យ ថ្ងៃ ភ្លឺ ស្ស ។"
         },
         {
           "id": "10000000000570",
@@ -1969,8 +1969,8 @@
               "비타민C": "25mg (25%)"
             }
           },
-          "name_km": "Seoul Milk Liiv Kids' Juice ទឹក",
-          "desc_km": "ទឹក Liiv Kids' Juice ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Liiv ទឹក Juice Kids",
+          "desc_km": "ភេសជ្ជៈ ផ្លែឈើ-បន្លែ ស្រស់ ស្រាយ សម្រាប់ ក្មេង ។ ផ្ដល់ Dietary fiber Nutrient ទី 6 បូក Vitamin C ។"
         },
         {
           "id": "10000000000569",
@@ -2002,8 +2002,8 @@
               "비타민C": "10mg (10%)"
             }
           },
-          "name_km": "Seoul Milk Apple, Orange & Plum Tree ទឹក",
-          "desc_km": "ទឹក Apple, Orange & Plum Tree ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកប្រូតេអ៊ីន ។"
+          "name_km": "Seoul Milk Apple, Orange & Plum ភេសជ្ជៈ",
+          "desc_km": "ភេសជ្ជៈ ផ្លែឈើ-បន្លែ ស្រស់ ចិត្ត ផ្ទុក Dietary fiber និង Vitamin ។ ទំហំ ស្ដែង ១ ពេល សម្រាប់ ក្មេង ។"
         },
         {
           "id": "10000000000567",
@@ -2032,8 +2032,8 @@
               "칼슘": "200mg (29%)"
             }
           },
-          "name_km": "Seoul Milk Wondumil Plus ទឹកសណ្ណ",
-          "desc_km": "ទឹក Soy Milk Wondumil Plus ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Wondumil Plus ទឹកសណ្ដែក",
+          "desc_km": "ទឹកសណ្ដែក ធ្វើ ពី ចន្ទៀន ជ្រើសរើស ប្រណីត ។ រស ស្អាត មិន ផ្អែម ហួស ។ (Origin Soybean: Import USA, Canada, Australia ។)"
         },
         {
           "id": "10000000000566",
@@ -2062,8 +2062,8 @@
               "칼슘": "290mg (41%)"
             }
           },
-          "name_km": "Seoul Milk ទឹកសណ្ណ Black Sesame & Black Bean",
-          "desc_km": "ទឹក Soy Milk Black Sesame & Black Bean ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "name_km": "Seoul Milk ទឹកសណ្ដែក Black Sesame & Black Bean",
+          "desc_km": "ទឹកសណ្ដែក ផ្ទុក Calcium 150mg ក្នុង 100mL ។ ប្រហែល 20% ចំណែក ប្រចាំ ថ្ងៃ 700mg ។ Black sesame ជាមួយ Black bean ផ្ដល់ រស Nutty ស្អាត ។"
         },
         {
           "id": "10000000000564",
@@ -2092,8 +2092,8 @@
               "칼슘": "100mg (14%)"
             }
           },
-          "name_km": "Seoul Milk ទឹកសណ្ណ Black Bean, Walnut & Almond",
-          "desc_km": "ទឹក Soy Milk Black Bean, Walnut & Almond ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "name_km": "Seoul Milk ទឹកសណ្ដែក Whole Black Bean, Walnut & Almond",
+          "desc_km": "ទឹកសណ្ដែក Whole-grain Nutritious ដែលកិន ចន្ទៀន ទាំងមូល ជាមួយ Black bean, Walnut, Almond ។ Nut ផ្ដល់ រស Nutty ជ្រៅ គ្មាន Stabilizer ។ ងាយ ជំនួស អាហារ ១ ពេល ។ Packaging Gift box ។"
         },
         {
           "id": "10000000000561",
@@ -2122,8 +2122,8 @@
               "칼슘": "170mg (24%)"
             }
           },
-          "name_km": "Seoul Milk ទឹកសណ្ណ Black Sesame & Black Medicinal-Bean",
-          "desc_km": "ទឹក Soy Milk Black Sesame & Black Medicinal-Bean ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "name_km": "Seoul Milk ទឹកសណ្ដែក Black Sesame & Black Medicinal Bean",
+          "desc_km": "ទឹកសណ្ដែក ប្រកបដោយ សារជាតិ Black sesame និង Black medicinal bean ។ ធ្វើ ពី ចន្ទៀន ទាំងមូល 15 ប្រភេទ ផ្ដល់ រស Nutty ។ (Origin Soybean: USA ។)"
         },
         {
           "id": "10000000000632",
@@ -2154,7 +2154,7 @@
             }
           },
           "name_km": "Seoul Milk Click U Low-Sugar Protein",
-          "desc_km": "Click U Low-Sugar Protein ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ភេសជ្ជៈ Grain Nutty ។ ផ្ទុក Protein 10g ក្នុង Pack 190mL ។ ចំណែក Animal ជាមួយ Plant ។ ស្ករ ស្រាល ។"
         },
         {
           "id": "10000000000665",
@@ -2199,7 +2199,7 @@
             }
           },
           "name_km": "Seoul Milk Click U Low-Sugar Balance",
-          "desc_km": "Click U Low-Sugar Balance ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ភេសជ្ជៈ Grain Balance ជាមួយ BCAA 1,500mg និង Vitamin & Mineral 15 ប្រភេទ ។ ផ្ទុក Banaba leaf extract 16mg ជំនួយ ដំណើរ ស្ករ ក្រោយ អាហារ ។"
         },
         {
           "id": "10000000000657",
@@ -2229,8 +2229,8 @@
               "비타민D": "0.8μg (8%)"
             }
           },
-          "name_km": "Seoul Milk Soy Master ទឹក",
-          "desc_km": "ទឹក Soy Master ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Soy Master ទឹកសណ្ដែក",
+          "desc_km": "ទឹកសណ្ដែក ស្ករ ស្រាល សម្រាប់ ក្រុមគ្រួសារ ។ ផ្ទុក Plant protein, Calcium ខ្ពស់, Vitamin D ។ Blend Balance ឆ្ងាញ់ ផ្ទាល់ ។"
         },
         {
           "id": "10000000000563",
@@ -2259,8 +2259,8 @@
               "칼슘": "250.0mg (36%)"
             }
           },
-          "name_km": "Seoul Milk ទឹកសណ្ណ Black Bean, Oat & Walnut",
-          "desc_km": "ទឹក Soy Milk Black Bean, Oat & Walnut ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "name_km": "Seoul Milk ទឹកសណ្ដែក Black Bean, Oat & Walnut",
+          "desc_km": "ទឹកសណ្ដែក ប្រភេទ Pouch ។ ផ្ដល់ រស Oat ផ្គុំ ជាមួយ Walnut Nutty ។ Multigrain Nutritious ។ ជាមួយ Black bean, Oat, Nut ។"
         },
         {
           "id": "10000000000521",
@@ -2289,8 +2289,8 @@
               "칼슘": "140mg (20%)"
             }
           },
-          "name_km": "Seoul Milk Milk Porridge ទឹកដោះគោ",
-          "desc_km": "ទឹក Milk Porridge ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Milk Porridge បបរ",
+          "desc_km": "បបរ Ready-to-eat ញ៉ាំ ទៅ ណា ក៏ បាន គ្មាន ត្រូវការ ប្រដាប់ ។ ទឹកដោះគោ ផ្ដល់ Calcium ។ Nut porridge ផ្ទុក ទឹកដោះគោ 30% ហើយ Sweet-pumpkin porridge ផ្ទុក 20% ។ Retort-sterilized ។"
         }
       ],
       "name_km": "ភេសជ្ជៈ"
@@ -2329,7 +2329,7 @@
             }
           },
           "name_km": "Seoul Milk Gangneung Coffee",
-          "desc_km": "Seoul Milk Gangneung Coffee ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ហាង Coffee ខ្ពស់ ថ្នាក់ ។ ប្រផ្នូលដោយ ទីក្រុង Gangneung ។ ផ្ដើម ដោយ Cold brew Ethiopia Single-origin ។ Latte: ប្រើ Coffee Bohemian Roasters ជាមួយ Seoul Milk ផ្ដល់ រស រលូន មិន ផ្អែម ហួស ។ Double Shot Latte: ចម្អិន Direct-fire ជ្រៅ ស្ករ ស្រាល ។ ឆ្ងាញ់ ប្រណីត ។"
         },
         {
           "id": "10000000000559",
@@ -2364,7 +2364,7 @@
             }
           },
           "name_km": "Seoul Milk Starbucks Cup Coffee",
-          "desc_km": "Starbucks Cup Coffee Seoul Milk ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ទទួល ភាព ស្រួល Starbucks Café គ្រប់ ទីកន្លែង ។ Caffè Latte (200/270/320mL): Starbucks bean ប្រណីត ជាមួយ ទឹកដោះគោ ស្រស់ ក្រែម ។ Skinny Latte (270mL): ស្ករ -10%, ខ្លាញ់ -60% ។ Vanilla Latte (200/320mL): bean ប្រណីត ជាមួយ Vanilla ផ្អែម ។ Caffè Mocha (320mL): ជាមួយ Cocoa ។ ល្អ ញ៉ាំ ។ ជ្រើស ។"
         },
         {
           "id": "10000000000557",
@@ -2396,7 +2396,7 @@
             }
           },
           "name_km": "Seoul Milk Maxim T.O.P Coffee",
-          "desc_km": "Seoul Milk Maxim T.O.P Coffee ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Cup coffee ប្រណីត ។ ពីជំនាញ Maxim ផ្ដល់ រស Coffee ពិតប្រាកដ ។ Mild: Roast Medium + ទឹកដោះគោ ច្រើន ស្រស់ ព្រឹក ។ Bold: Roast Dark Bold ខ្លាំង ។ Triple: Bold ជ្រៅ ជាង ។ Nutty Caramel: Seoul Milk ថ្នាក់ 1A + Caramel + Nutty ។ ល្អ ។"
         },
         {
           "id": "10000000000556",
@@ -2425,7 +2425,7 @@
             }
           },
           "name_km": "Seoul Milk Coffee Bean Americano",
-          "desc_km": "Seoul Milk Coffee Bean Americano ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Coffee Bean Iced coffee ការពារ រស ក្លិន Coffee ស្រស់ ។ Blend ពី Bean Premium Brazil 35%, Ethiopia 20% ។ គ្មាន Additive សិប្បនិម្មិត ។ ល្អ ប្រើ ត្រជាក់ ជាមួយ Ice ។"
         },
         {
           "id": "10000000000518",
@@ -2455,7 +2455,7 @@
             }
           },
           "name_km": "Seoul Milk King Coffee Mix",
-          "desc_km": "Seoul Milk King Coffee Mix ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Instant Coffee Mix ខ្ពស់ ថ្នាក់ ។ ផ្ដល់ រស ជ្រៅ ពេញ ។ ធ្វើ ពី Skim milk powder Korea Seoul Milk ។ Fill ច្រើន 15.4g/stick ផ្ដល់ Coffee ជ្រៅ ក្នុង ទឹក ដូច គ្នា ។ ល្អ ចំណូលចិត្ត ។"
         },
         {
           "id": "10000000000697",
@@ -2483,8 +2483,8 @@
               "단백질": "3g (5%)"
             }
           },
-          "name_km": "Seoul Milk King Matcha Espresso Coffee",
-          "desc_km": "Seoul Milk King Matcha Espresso Coffee ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "name_km": "Seoul Milk King Matcha Espresso",
+          "desc_km": "ភ្ជាប់ Matcha Organic Korea ជ្រៅ, Espresso shot ហ្មត់ចត់, និង Milk ក្នុង Balance ល្អ ។ ជា ភេសជ្ជៈ ប្រណីត Cup ១ ។"
         },
         {
           "id": "10000000000638",
@@ -2515,7 +2515,7 @@
             }
           },
           "name_km": "Seoul Milk Coffee Town",
-          "desc_km": "Seoul Milk Coffee Town ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ឱកាស ផ្អើក ទំនេរ ពិសេស ប្រណីត ។ Coffee Town មាន ៣ ប្រភេទ: Deep Brown Mocha, White Vanilla, Hazelnut ។"
         },
         {
           "id": "10000000000555",
@@ -2544,8 +2544,8 @@
               "나트륨": "93mg (5%)"
             }
           },
-          "name_km": "Seoul Milk Coffee Pori (Triangle Pack)",
-          "desc_km": "Seoul Milk Coffee Pori Triangle Pack ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Coffee Pori ទឹកដោះគោ (Triangle Pack)",
+          "desc_km": "ទឹកដោះគោ Coffee ដើម Korea ក្នុង ថង់ Triangle Pack ដំបូង ចេញ ឆ្នាំ 1974 — រស ចងចាំ ពី Bathhouse ។ ទឹក Coffee ផ្អែម ធ្វើ ពី ទឹកដោះគោ Korea ។"
         },
         {
           "id": "10000000000658",
@@ -2574,7 +2574,7 @@
             }
           },
           "name_km": "Seoul Milk Pori Coffee (Cup)",
-          "desc_km": "Seoul Milk Pori Coffee Cup ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ប្រភេទ Cup ពី ទឹកដោះគោ Coffee ដើម ឆ្នាំ 1974 Triangle pack — រស ចងចាំ ដូច គ្នា ធ្វើ ពី ទឹកដោះគោ Korea ។"
         },
         {
           "id": "10000000000554",
@@ -2603,7 +2603,7 @@
             }
           },
           "name_km": "Seoul Milk Click U Coffee",
-          "desc_km": "Seoul Milk Click U Coffee ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ទឹកដោះគោ Coffee Sterilized ស្ទង់ ឡើង វិញ ពី រស Triangle-pack ចាស់ ។ Click U ជា Brand ដែល Seoul Dairy Cooperative គ្រប់គ្រង ចែកចាយ ដោយ Na100 Shop ។"
         },
         {
           "id": "10000000000625",
@@ -2632,8 +2632,8 @@
               "단백질": "5g (9%)"
             }
           },
-          "name_km": "Seoul Milk Coffee",
-          "desc_km": "Seoul Milk Coffee ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Coffee ទឹកដោះគោ",
+          "desc_km": "ទឹកដោះគោ Coffee ផ្អែម ធ្វើ ពី Raw milk Korea ថ្នាក់ 1A ។ ក្លិន Coffee សម្បូរ រលូន ។"
         }
       ],
       "name_km": "កាហ្វេ"
@@ -2674,7 +2674,7 @@
             }
           },
           "name_km": "Seoul Milk Cheddar Cheese",
-          "desc_km": "Seoul Milk Cheddar Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Cheese ល្អ ចំពោះ រស Korea ។ Cheddar ជា Cheese ប្រភេទ ល្បីបំផុត ក្នុង Korea ។ រស Smooth ជ្រូក ល្អ ជាមួយ Burger, Gimbap ។"
         },
         {
           "id": "10000000000549",
@@ -2707,7 +2707,7 @@
             }
           },
           "name_km": "Seoul Milk Enfant Kids Cheese",
-          "desc_km": "Seoul Milk Enfant Kids Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Enfant ថ្មី — Cheese ជំនួយ ការ លូតលាស់ ។ Slice ១ ផ្ដល់ Calcium 50%, Vitamin D3 30%, Zinc 31% Daily value ។ ល្អ សម្រាប់ ឆ្អឹង ធ្មេញ និង Immune ។"
         },
         {
           "id": "10000000000550",
@@ -2741,7 +2741,7 @@
             }
           },
           "name_km": "Seoul Milk Enfant Organic Cheese 3-Step",
-          "desc_km": "Seoul Milk Enfant Organic Cheese 3-Step ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "desc_km": "Cheese Organic ។ ជំនួស ៣ ដំណាក់ ការ លូតលាស់ ។ Step 1 (6-18 ខែ): Colostrum protein ជំនួយ Zinc Immune ។ Step 2 (19-36 ខែ): Calcium + Vitamin D ជំនួយ ការ ពង្រឹង ឆ្អឹង ។ Step 3 (4+ ឆ្នាំ): Organic Balance ។ ល្អ ។ ជំនួស ក្មេង លូតលាស់ ។"
         },
         {
           "id": "10000000000639",
@@ -2771,8 +2771,8 @@
               "칼슘": "107mg (15%)"
             }
           },
-          "name_km": "Seoul Milk Not-Salty Healthy Cheese",
-          "desc_km": "Seoul Milk Not-Salty Healthy Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Cheese Sodium ទាប Healthy",
+          "desc_km": "Cheese ដែល Sodium ត្រូវ បន្ថ ទាប ដើម្បី ញ៉ាំ ក្នុង របៀប Healthy ។"
         },
         {
           "id": "10000000000546",
@@ -2804,8 +2804,8 @@
               "비타민D₃": "1.8μg (18%)"
             }
           },
-          "name_km": "Seoul Milk Bone-Boost Calcium Cheese",
-          "desc_km": "Seoul Milk Bone-Boost Calcium Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Cheese Calcium ពង្រឹង ឆ្អឹង",
+          "desc_km": "Cheese ជំនួយ ការ ពង្រឹង ឆ្អឹង ។ ផ្ទុក Calcium 2,500mg ក្នុង 100g ។ Slice ២ ផ្ដល់ Calcium 700mg ស្មើ ការ ណែនាំ ប្រចាំ ថ្ងៃ ។ ល្អ ចំពោះ ឆ្អឹង ។"
         },
         {
           "id": "10000000000547",
@@ -2835,8 +2835,8 @@
               "칼슘": "270mg (39%)"
             }
           },
-          "name_km": "Seoul Milk Reduced-Fat High-Calcium Cheese",
-          "desc_km": "Seoul Milk Reduced-Fat High-Calcium Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "name_km": "Seoul Milk Cheese ខ្លាញ់ ទាប Calcium ខ្ពស់",
+          "desc_km": "Cheese ក្រុមគ្រួសារ ខ្លាញ់ ទាប ប្រហែល 30% ជាង Processed cheese ធម្មតា ។ Calcium ច្រើន ។ ផ្ទុក Dietary fiber Chicory extract ជំនួយ Digestive ។"
         },
         {
           "id": "10000000000548",
@@ -2869,7 +2869,7 @@
             }
           },
           "name_km": "Seoul Milk Pororo Calcium King Cheese",
-          "desc_km": "Pororo Calcium King Cheese Seoul Milk ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Cheese ក្មេង ផ្ទុក Milk calcium ជំនួយ ការ លូតលាស់ ។ គ្មាន Preservative សិប្បនិម្មិត ។ Character Pororo ដែល ក្មេង ចូលចិត្ត ។"
         },
         {
           "id": "10000000000544",
@@ -2904,8 +2904,8 @@
               "비타민E": "0.9mg α-TE (8%)"
             }
           },
-          "name_km": "Seoul Milk Cheese for Adults",
-          "desc_km": "Seoul Milk Cheese for Adults ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Cheese សម្រាប់ ពេញ វ័យ",
+          "desc_km": "Cheese ពេញ Nutrition ក្នុង Slice ១ ។ ផ្ដល់ Essential amino acid ជំនួយ Muscle ។ Zinc ជំនួយ Immune ។ DHA ជំនួយ Brain ។ Calcium + Vitamin D ជំនួយ ឆ្អឹង ។ Vitamin A, D, E ជំនួយ រាងកាយ ។ ឆ្ងាញ់ ញ៉ាំ ។ ស្រស់ ល្អ ។"
         },
         {
           "id": "10000000000545",
@@ -2935,7 +2935,7 @@
             }
           },
           "name_km": "Seoul Milk Cheese Master",
-          "desc_km": "Seoul Milk Cheese Master ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Blend Cheese Master ពី ៣: Cheddar ស្គាល់ ក្លិន, Gouda ជ្រៅ, Korean butter Nutty Smooth ក្នុង Balance ល្អ ។ ឆ្ងាញ់ ជាមួយ ម្ហូប ទូទៅ ។"
         },
         {
           "id": "10000000000543",
@@ -2965,8 +2965,8 @@
               "칼슘": "89mg (13%)"
             }
           },
-          "name_km": "Seoul Milk Tasty Cheese 2 Types",
-          "desc_km": "Seoul Milk Tasty Cheese 2 Types ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Tasty Cheese (2 ប្រភេទ)",
+          "desc_km": "Tasty Cheese ។ Blend Cheddar, Gouda ជាមួយ ប៊ឺ Korea ក្នុង សមាមាត្រ ឆ្ងាញ់ ។ ល្អ ជំនួស ជា Snack ឬ ចំអិន ផ្ទះ ។ High-Calcium: Slice ២ ផ្ដល់ Calcium ប្រចាំ ថ្ងៃ ។ ប្រណីត ស្រស់ ។"
         },
         {
           "id": "10000000000629",
@@ -2996,8 +2996,8 @@
               "칼슘": "119mg (17%)"
             }
           },
-          "name_km": "Seoul Milk High-Protein Cheese",
-          "desc_km": "Seoul Milk High-Protein Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Cheese Protein ខ្ពស់",
+          "desc_km": "Cheese Nutty រលូន ។ ផ្ទុក Protein ខ្ពស់ ជាង គេ ក្នុង Korea ។ Complete protein: Essential amino acid ទាំង ៩ ប្រភេទ ។ Blend Protein Animal ជាមួយ Plant protein ។ ល្អ ចំពោះ Muscle ។ ស្រស់ ឆ្ងាញ់ ប្រណីត ។"
         },
         {
           "id": "10000000000540",
@@ -3028,7 +3028,7 @@
             }
           },
           "name_km": "Seoul Milk Shredded Mozzarella Cheese",
-          "desc_km": "Seoul Milk Shredded Mozzarella Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Mozzarella Shredded ដូរ ងាយ ។ ល្អ ប្រើ ក្នុង ម្ហូប ច្រើន ប្រភេទ ។ ល្អ ជាមួយ Toast, Spaghetti, Fried rice, Pizza ។ ទំហំ: 1kg Economy, Multi-pack 300g (4×75g), Mini 60g ។ ស្រស់ ឆ្ងាញ់ ប្រណីត ។"
         },
         {
           "id": "10000000000701",
@@ -3057,7 +3057,7 @@
             }
           },
           "name_km": "Seoul Milk Silssok Shredded Mozzarella",
-          "desc_km": "Seoul Milk Silssok Shredded Mozzarella ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Mozzarella New Zealand ។ បន្ថែម Gouda ផ្ដល់ រស Nutty ជ្រៅ ។ ល្អ ជំនួយ ។ Pack Single-use ងាយ ប្រើ ។"
         },
         {
           "id": "10000000000702",
@@ -3086,7 +3086,7 @@
             }
           },
           "name_km": "Seoul Milk Triple Shredded Cheese",
-          "desc_km": "Seoul Milk Triple Shredded Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Cheese Shredded ៣ ប្រភេទ ។ Blend Mozzarella ជ្រោម + Gouda Nutty + Cheddar ផ្ដល់ ជំហរ Cheese ពេញ ។ ល្អ ចំអិន ។ ឆ្ងាញ់ ប្រណីត ។"
         },
         {
           "id": "10000000000536",
@@ -3115,7 +3115,7 @@
             }
           },
           "name_km": "Seoul Milk Cooking King Mozzarella",
-          "desc_km": "Seoul Milk Cooking King Mozzarella ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Shredded Pizza cheese ។ Blend Mozzarella + Gouda ។ ផ្ដល់ រស ជ្រៅ ។ Multi-pack ខ្នាត Small ងាយ ប្រើ ។ Hygienic ល្អ សម្រាប់ ផ្ទះ ម្នាក់ ។"
         },
         {
           "id": "10000000000538",
@@ -3145,7 +3145,7 @@
             }
           },
           "name_km": "Seoul Milk Farm Picnic Mozzarella Block",
-          "desc_km": "Seoul Milk Farm Picnic Mozzarella Block ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Mozzarella Block ជ្រើស ប្រើ ។ ល្អ ជំនួយ ក្នុង ម្ហូប ច្រើន ប្រភេទ ។ ល្អ ជាមួយ Salad, Pizza, Cheese stick, Cheese cutlet ។"
         },
         {
           "id": "10000000000700",
@@ -3174,7 +3174,7 @@
             }
           },
           "name_km": "Seoul Milk Farm Picnic Fresh Mozzarella",
-          "desc_km": "Seoul Milk Farm Picnic Fresh Mozzarella ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ធ្វើ ពី Raw milk Korea ។ Texture ទន់ រស Nutty ស្រស់ ពី ទឹកដោះគោ ។"
         },
         {
           "id": "10000000000530",
@@ -3203,7 +3203,7 @@
             }
           },
           "name_km": "Seoul Milk Farm Picnic Grilling Cheese",
-          "desc_km": "Seoul Milk Farm Picnic Grilling Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Halloumi-style Grilling cheese ។ ធ្វើ ពី Raw milk Korea ថ្នាក់ 1A ។ ដុត ដូច Meat ឆ្ងាញ់ ។ ខ្លាញ់ ទាប ។ ទ្រង់ Nutty Chewy ។ ខ្ចប់ 80g Easy-open ។ ស្រស់ ប្រណីត ។"
         },
         {
           "id": "10000000000535",
@@ -3233,7 +3233,7 @@
             }
           },
           "name_km": "Seoul Milk Farm Picnic String Cheese",
-          "desc_km": "Seoul Milk Farm Picnic String Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "String cheese ចាក ត្រចៀក ងាយ ។ ស្អាត គ្មាន Preservative ឬ Coloring ។"
         },
         {
           "id": "10000000000529",
@@ -3262,8 +3262,8 @@
               "칼슘": "170mg (24%)"
             }
           },
-          "name_km": "Seoul Milk Na 100% Naturally Aged Mild Cheddar",
-          "desc_km": "Seoul Milk Na 100% Naturally Aged Mild Cheddar ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។"
+          "name_km": "Seoul Milk Na 100% Mild Cheddar Cheese",
+          "desc_km": "Cheese ខ្ពស់ ថ្នាក់ ។ ធ្វើ ពី Na 100% Raw milk Korea ។ Mild Cheddar ចាស់ ធម្មជាតិ 3 ខែ ។ Grade-1A ។ រស ស្អាត មិន ប្រៃ ហួស ។ Format Stick ងាយ ប្រើ ។ ឆ្ងាញ់ ។"
         },
         {
           "id": "10000000000532",
@@ -3294,7 +3294,7 @@
             }
           },
           "name_km": "Seoul Milk Cheese Cubic",
-          "desc_km": "Seoul Milk Cheese Cubic ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Snack Nutrition ល្អ ចំពោះ ក្រុមគ្រួសារ ។ Character Kakao Friends ។ Cheese ទន់ ក្នុង Sliding case ងាយ ។ Plain: ល្អ ទូទៅ ។ Onion: Cheese ស្រស់ ជាមួយ Onion ផ្អែម ។ ឆ្ងាញ់ ញ៉ាំ ។"
         },
         {
           "id": "10000000000534",
@@ -3327,7 +3327,7 @@
             }
           },
           "name_km": "Seoul Milk Kkayo Kkayo Peel Cheese",
-          "desc_km": "Seoul Milk Kkayo Kkayo Peel Cheese ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Snack Nutritious ចំពោះ ក្មេង ។ Character Disney Tsum Tsum ។ ញ៉ាំ ដោយ ស្ករ ខ្ចឹប ។ ធ្វើ ពី Milk calcium ជាមួយ ទឹកដោះគោ Korea ។ ប្រភេទ: Plain, Strawberry, Chocolate, Seven-berry ។ ឆ្ងាញ់ ស្រស់ ។"
         },
         {
           "id": "10000000000520",
@@ -3357,7 +3357,7 @@
             }
           },
           "name_km": "Seoul Milk Cheese Beef Jerky",
-          "desc_km": "Seoul Milk Cheese Beef Jerky ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Snack ចំណុះ Jerky ជាមួយ Cheese ។ ល្អ ជំនួយ ។ Balance Beef ស្រស់ + Cheese Plain ផ្ដល់ រស Jerky ។ ល្អ ជា Snack ក្មេង, ចំណុះ Beer ឬ Wine, Energy ដំណើរ ។"
         },
         {
           "id": "10000000000699",
@@ -3387,8 +3387,8 @@
               "단백질": "8g (15%)"
             }
           },
-          "name_km": "Seoul Milk One-Bite Cheese 3 Types",
-          "desc_km": "Seoul Milk One-Bite Cheese 3 Types ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk One-Bite Cheese (3 ប្រភេទ)",
+          "desc_km": "Snack One-bite ។ ខ្ចប់ 35g ។ Squid: Squid Chewy ជាមួយ Cheese រលូន ។ Onion Bacon: Bacon ជាមួយ Onion ផ្អែម ។ Black Pepper: Pepper ក្ដៅ + Cheese Nutty ។ ឆ្ងាញ់ ប្រណីត ។ ជ្រើស ស្រស់ ឆ្ងាញ់ ណាស់ ល្អ ។"
         }
       ],
       "name_km": "ឈីស"
@@ -3424,7 +3424,7 @@
             }
           },
           "name_km": "Seoul Milk Fresh Cream ក្រែម",
-          "desc_km": "Seoul Milk Fresh Cream ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Cream ទឹកដោះគោ Korea 100% ។ ពី Fresh milk ស្រស់ ។ ផ្ដល់ រស Nutty ស្អាត ។ Smooth ។ ល្អ ជំនួយ Cake, Pasta, Coffee ។ ល្អ ជំនួយ ជា Whipped topping ។"
         },
         {
           "id": "10000000000515",
@@ -3454,7 +3454,7 @@
             }
           },
           "name_km": "Seoul Milk Whipping Cream ក្រែម",
-          "desc_km": "Seoul Milk Whipping Cream ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ក្រែម ចំអិន ខ្ពស់ ថ្នាក់ ។ ការ ពារ រស ក្លិន Natural dairy cream ។ Shape retention ល្អ ។ ងាយ ប្រើ ក្នុង Confectionery, Dessert, Cream sauce ។ ស្រស់ ប្រណីត ។"
         },
         {
           "id": "10000000000513",
@@ -3483,7 +3483,7 @@
             }
           },
           "name_km": "Seoul Milk Plant-Based Whipping Cream",
-          "desc_km": "Plant-Based Whipping Cream Seoul Milk ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Trans fat Zero ។ ទ្រង់ Shape ល្អ យូរ ។ ល្អ ជំនួយ ក្នុង Hot drink, Waffle, Honey bread ។ ល្អ ជា Topping ភេសជ្ជៈ ។"
         },
         {
           "id": "10000000000512",
@@ -3512,7 +3512,7 @@
             }
           },
           "name_km": "Seoul Milk Plant-Based Cooking Cream",
-          "desc_km": "Plant-Based Cooking Cream Seoul Milk ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Trans fat Zero ។ ស្រស់ ស្រាយ ។ Cooking cream ស្អាត ។ ល្អ ជំនួយ ក្នុង Pasta, Soup ។ ចម្រុះ ជាមួយ Dairy cream ឬ Processed cream ។"
         },
         {
           "id": "10000000000510",
@@ -3546,7 +3546,7 @@
             }
           },
           "name_km": "Seoul Milk Butter",
-          "desc_km": "Seoul Milk Butter ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Butter ខ្ពស់ ថ្នាក់ ។ ធ្វើ ពី Raw milk Korea 100% ។ Salted 99%+ ។ Unsalted: ផ្ដល់ រស Nutty ជ្រៅ ។ ល្អ Spread លើ នំ, Toast ។ ចំអិន Steak ។ ឆ្ងាញ់ ។"
         },
         {
           "id": "10000000000509",
@@ -3575,8 +3575,8 @@
               "단백질": "1g미만 (2%)"
             }
           },
-          "name_km": "Seoul Milk Nutty Butter Unsalted",
-          "desc_km": "Seoul Milk Nutty Butter Unsalted ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Nutty Butter (Unsalted)",
+          "desc_km": "Butter Smooth Nutty ធ្វើ ដោយ គ្មាន ប្រៃ ។ ងាយ ប្រើ ក្នុង Bread, Baking, Grilling, Steak ។ ការពារ រស ធម្មជាតិ Ingredient ។"
         },
         {
           "id": "10000000000508",
@@ -3605,8 +3605,8 @@
               "칼슘": "210mg (30%)"
             }
           },
-          "name_km": "Seoul Milk Morning Butter Spreadable",
-          "desc_km": "Seoul Milk Morning Butter Spreadable ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "name_km": "Seoul Milk Morning Butter (Spreadable)",
+          "desc_km": "Butter ស្រស់ ។ Spread ងាយ ចេញ Fridge ។ ការ ពារ Butter Flavor ពេញ ។ ផ្ដល់ Plain bread រស Nutty ជ្រៅ ។"
         }
       ],
       "name_km": "ក្រែមស្រស់ និងប៊ឺ"
@@ -3643,7 +3643,7 @@
             }
           },
           "name_km": "Seoul Milk Condensed Milk ទឹកដោះគោ",
-          "desc_km": "Seoul Milk Condensed Milk ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ទឹកដោះគោ ថ្លុក ដោយ Vacuum ពី Fresh milk + ស្ករ ។ Nutrition ខ្ចី ។ ប្រើ ជំនួស Cream ក្នុង Coffee ឬ Spread លើ Bread, Biscuit ។ ល្អ ក្នុង ការ ដំណើរ, Fishing, Outdoor ។"
         },
         {
           "id": "10000000000506",
@@ -3673,7 +3673,7 @@
             }
           },
           "name_km": "Seoul Milk Skim Milk Powder ម្សៅ",
-          "desc_km": "Seoul Milk Skim Milk Powder ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Milk powder ដែល ខ្លាញ់ ត្រូវ លុបចេញ ពី Raw milk ។ ស្ដុក ងាយ យូរ ។ ល្អ ចំពោះ មនុស្ស គ្រប់ ខ្លាញ់ ។ Ingredient Confectionery, Bread, Ice cream ។"
         },
         {
           "id": "10000000000505",
@@ -3703,7 +3703,7 @@
             }
           },
           "name_km": "Seoul Milk Whole Milk Powder ម្សៅ",
-          "desc_km": "Seoul Milk Whole Milk Powder ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "ទឹកដោះគោ Powder ។ ផ្ទុក Nutrient ខ្ចី ។ ផ្ទុក Protein, Milk fat, Carbohydrate ។ ល្អ ជំនួស ជា Ingredient ក្នុង Confectionery, Bread, Ice cream ។ ស្រស់ ។ ប្រណីត ស្រស់ ល្អ ។"
         }
       ],
       "name_km": "ទឹកដោះគោម្សៅ និងទឹកដោះគោខាប់"
@@ -3739,7 +3739,7 @@
             }
           },
           "name_km": "Seoul Milk Jersey Milk Ice Cream 474mL",
-          "desc_km": "Seoul Milk Jersey Milk Ice Cream 474mL ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Ice cream ប្រណីត ។ ផ្ទុក Jersey raw milk Korea 50% ។ ផ្ដល់ រស ទឹកដោះគោ ជ្រៅ រលូន ។ ធ្វើ ពី Ingredient ធម្មជាតិ ។ Tub 474mL ។ ឆ្ងាញ់ ស្រស់ ។"
         },
         {
           "id": "10000000000649",
@@ -3770,7 +3770,7 @@
             }
           },
           "name_km": "Seoul Milk Mini Cup Ice Cream",
-          "desc_km": "Seoul Milk Mini Cup Ice Cream ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Ice cream ខ្នាតតូច ប្រណីត ។ ផ្ទុក ទឹកដោះគោ Korea 44%+ ។ ផ្ដល់ រស ទឹកដោះគោ ស្រស់ ។ Texture រលូន ។ Cup ខ្នាតតូច ងាយ ញ៉ាំ ។ ឆ្ងាញ់ ។"
         },
         {
           "id": "10000000000647",
@@ -3801,7 +3801,7 @@
             }
           },
           "name_km": "Seoul Milk Bar Ice Cream",
-          "desc_km": "Seoul Milk Bar Ice Cream ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Bar Ice cream Seoul Milk ។ ផ្ទុក ទឹកដោះគោ Korea 52%+ ។ Milk Bar: Ice cream ផ្ដល់ រស ទឹកដោះគោ ពេញ ។ Chocolate Bar: ជាមួយ Chocolate ។ Strawberry Bar: Ice milk ស្រស់ ។ ឆ្ងាញ់ ។ ស្រស់ ប្រណីត ល្អ ។"
         },
         {
           "id": "10000000000652",
@@ -3830,7 +3830,7 @@
             }
           },
           "name_km": "Seoul Milk Mini Milk Choco",
-          "desc_km": "Seoul Milk Mini Milk Choco ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Ice cream One-bite ។ រុំ Chocolate ។ ផ្ទុក Na 100% ទឹកដោះគោ Korea 43% ។ ទ្រង់ Milk bottle ។ Character Super Cow ។ ឆ្ងាញ់ ស្រស់ ជ្រៅ ។ ល្អ ញ៉ាំ ។ ស្រស់ ។"
         },
         {
           "id": "10000000000651",
@@ -3859,7 +3859,7 @@
             }
           },
           "name_km": "Seoul Milk Milkkuz Milkshake",
-          "desc_km": "Seoul Milk Milkkuz Milkshake ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Ice treat ស្ទីល Milkshake ។ ផ្ទុក ទឹកដោះគោ Korea 30% ។ ផ្ដល់ រស ទឹកដោះគោ រលូន ។ Pouch-cap ងាយ ប្រើ ។ Character Super Cow ។ ឆ្ងាញ់ ស្រស់ ។"
         },
         {
           "id": "10000000000661",
@@ -3888,7 +3888,7 @@
             }
           },
           "name_km": "Seoul Milk Jersey Milk Cone",
-          "desc_km": "Seoul Milk Jersey Milk Cone ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Cone Ice cream ប្រណីត ។ ផ្ទុក Jersey milk Korea 58% ។ Milk fat ខ្ពស់ 9% ។ ផ្ដល់ រស ទឹកដោះគោ Creamy ជ្រៅ ។ ឆ្ងាញ់ ស្រស់ ។ ល្អ ញ៉ាំ ។"
         },
         {
           "id": "10000000000698",
@@ -3917,7 +3917,7 @@
             }
           },
           "name_km": "Seoul Milk Jersey Milk Pudding",
-          "desc_km": "Seoul Milk Jersey Milk Pudding ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Pudding Dessert ប្រណីត ។ ផ្ទុក Jersey milk Korea 83% ។ ផ្ដល់ រស ទឹកដោះគោ ជ្រៅ រលូន ។ ឆ្ងាញ់ ស្រស់ ។"
         },
         {
           "id": "10000000000662",
@@ -3946,7 +3946,7 @@
             }
           },
           "name_km": "Seoul Milk Mini Cream Donut",
-          "desc_km": "Seoul Milk Mini Cream Donut ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Mini Donut Berliner ទន់ ។ ជាមួយ ក្រែម ទឹកដោះគោ ស្រស់ ។ ទំហំ ខ្នាតតូច ។ Character Super Cow ។ Frozen bakery ។ ឆ្ងាញ់ ។"
         },
         {
           "id": "10000000000496",
@@ -3977,7 +3977,7 @@
             }
           },
           "name_km": "Seoul Milk Mini Pizza",
-          "desc_km": "Seoul Milk Mini Pizza ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Mini Pizza ខ្នាតតូច ។ Dough Olive oil ទន់ ។ Topping ច្រើន ប្រភេទ ជាមួយ Cheese ។ ចំអិន Microwave ១ នាទី ។ Frozen bakery ។ ឆ្ងាញ់ ងាយ ។"
         },
         {
           "id": "10000000000708",
@@ -4006,7 +4006,7 @@
             }
           },
           "name_km": "Seoul Milk Black Sesame Milk Parfait",
-          "desc_km": "Seoul Milk Black Sesame Milk Parfait ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Parfait ប្រណីត ពីរ ស្រទាប់ ។ ខាង ក្រោម: Ice cream Black sesame ។ ខាង លើ: Ice cream ទឹកដោះគោ ។ ដំណក់ Syrup Black sesame-oil ផ្ដល់ ក្លិន Sesame ដុត ប្រណីត ។ ឆ្ងាញ់ ។"
         },
         {
           "id": "10000000000653",
@@ -4035,7 +4035,7 @@
             }
           },
           "name_km": "Seoul Milk Soft Ice Mix",
-          "desc_km": "Seoul Milk Soft Ice Mix ។ ផ្ទុកប្រូតេអ៊ីន ។ ផ្ទុកកាល់ស្យូម ។ ផ្ទុកវីតាមីន C ។ ផ្ទុកវីតាមីន D ។"
+          "desc_km": "Soft-serve Mix ប្រណីត ។ ធ្វើ ពី Na 100% Raw milk Korea ជាមួយ Fresh dairy cream ។ All-purpose Mix ។ ប្រើ ចំពោះ Soft-serve, Shake, Parfait ។ ផ្ដល់ រស ទឹកដោះគោ ស្រស់ ជ្រៅ ។ ល្អ ។ ឆ្ងាញ់ ។"
         }
       ],
       "name_km": "បង្អែម និងការ៉េម"
